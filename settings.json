@@ -1,0 +1,28 @@
+{
+  // Editor
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.lineHeight": 2,
+
+  // Security
+  "security.workspace.trust.untrustedFiles": "open",
+
+  // Terminal
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // Window
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false,
+
+  // Workbench
+  "workbench.startupEditor": "none",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.showTabs": "none",
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.navigationControl.enabled": false
+}
