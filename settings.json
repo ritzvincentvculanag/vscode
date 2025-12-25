@@ -12,6 +12,8 @@
   "security.workspace.trust.untrustedFiles": "open",
 
   "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 16,
 
   "window.menuBarVisibility": "compact",
 
